@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning how different system's work
 - 💞️ I’m looking to collaborate on anything related to Web Development
 - 📫 How to reach me yash.sharma@yahoo.com
 <!---
